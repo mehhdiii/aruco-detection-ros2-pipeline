@@ -1,3 +1,5 @@
+Ros-version: ros2 Humble 
+
 ## Building: 
 Copy the packages from `src/` to your workspace's `src/`.
 
