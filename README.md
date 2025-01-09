@@ -7,5 +7,6 @@ ros2 launch aruco_marker_detector multi_launch.py
 ```
 
 camera rotation:
-
+```
 ros2 launch aruco_marker_detector camera_rotation_multi_launch.py
+```
