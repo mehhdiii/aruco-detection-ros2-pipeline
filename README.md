@@ -1,3 +1,7 @@
+## Building: 
+Copy the packages from `src/` to your workspace's `src/`.
+
+## Running
 To execute the simulation, run the following (after building and sourcing the workspace):
 
 
